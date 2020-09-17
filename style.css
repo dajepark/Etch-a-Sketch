@@ -1,0 +1,15 @@
+.container {
+    display:grid;
+    width:950px;
+    height:950px;
+}
+
+.gridBox {
+    border:solid 1px black;
+    color:white;
+}
+
+.drawn {
+    background-color:red;
+    border:solid 1px black;
+}
